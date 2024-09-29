@@ -88,9 +88,9 @@ void main() {
         scanf("%d",&a[i][j]);
     }
   }
-  printf("enter the number of rows in the tuple 1");
+  printf("enter the number of rows in the tuple 2");
   scanf("%d",&s);
-  printf("enter the tuple 1");
+  printf("enter the tuple 2");
   for(int i=0;i<s;i++)
   {
     for(int j=0;j<3;j++)
